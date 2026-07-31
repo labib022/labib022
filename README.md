@@ -75,6 +75,11 @@ As a MERN Stack Developer, I'm continuously pushing boundaries, embracing challe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labib022&layout=compact&theme=radical&hide_border=true" width="60%" />
 </p>
 
+<h2 align="center">📈 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=labib022&theme=react-dark&hide_border=true&area=true" width="90%" />
+</p>
+
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/labib022/labib022/output/github-contribution-grid-snake.svg" width="100%" />
