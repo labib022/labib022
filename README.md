@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Labebul Islam</h1>
-<h3 align="center">MERN Stack Developer | Building scalable & secure web applications</h3>
+<h3 align="center">Jr. MERN Stack Developer | Building scalable & secure web applications</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9A826,100:1E90FF&height=200&section=header&text=Md%20Labebul%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9A826,100:1E90FF&height=200&section=header&text=Md%20Labebul%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Jr.%20MERN%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
 </p>
 
 <p align="center">
