@@ -64,15 +64,16 @@ As a MERN Stack Developer, I'm continuously pushing boundaries, embracing challe
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
+<p align="center"><code>&gt;_fetch --stats</code></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=labib022&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=labib022&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=labib022&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a855f7&text_color=c9d1d9&ring_color=a855f7" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=labib022&hide_border=true&background=0d1117&ring=a855f7&fire=00f5ff&currStreakLabel=00f5ff&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labib022&layout=compact&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labib022&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" width="60%" />
 </p>
 
 <h2 align="center">📈 Contribution Graph</h2>
