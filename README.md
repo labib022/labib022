@@ -12,13 +12,12 @@
   <img src="https://img.shields.io/badge/Node.js-white?logo=node.js&logoColor=green" />
   <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/demo-link/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:demo@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/demo-username"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/labib022"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://wa.me/8801XXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
@@ -60,7 +59,6 @@ As a MERN Stack Developer, I'm continuously pushing boundaries, embracing challe
 
 <p align="center">
 <b>DevOps & Tools</b><br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
@@ -68,18 +66,18 @@ As a MERN Stack Developer, I'm continuously pushing boundaries, embracing challe
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=demo-username&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=demo-username&theme=radical&hide_border=true" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=labib022&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=labib022&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demo-username&layout=compact&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labib022&layout=compact&theme=radical&hide_border=true" width="60%" />
 </p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/demo-username/demo-username/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/labib022/labib022/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 <p align="center">🙌 Thanks for stopping by — feel free to explore my repos or reach out to collaborate.</p>
