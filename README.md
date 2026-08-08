@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Labebul Islam</h1>
+<h1 align="center">Hi, I'm Md Labebul Islam</h1>
 <h3 align="center">Jr. MERN Stack Developer | Building scalable & secure web applications</h3>
 
 <p align="center">
